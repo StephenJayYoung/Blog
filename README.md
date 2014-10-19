@@ -1,0 +1,1 @@
+This blog serves to ask individuals in the tech industry one question: "How has learning to program made your life better?"
